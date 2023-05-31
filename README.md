@@ -126,4 +126,4 @@ df.skew()
 
 ## RESULT:
 
-Univariate Analysis is performed on given data and save
+Thus,Univariate Analysis has been performed on given data.
